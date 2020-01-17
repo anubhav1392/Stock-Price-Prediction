@@ -1,7 +1,8 @@
 # Stock-Price-Prediction
 This is the Simple Implementation of Stock Prediction using LSTM with keras.
 Implementation instructions are at the top inside the code file.
-Loss Function used in this code is Mean Square Error.<n>
+Loss Function used in this code is Mean Square Error.
+
 ![Mean Square Error Formula](https://study.com/cimages/multimages/16/4e7cf150-0179-4d89-86f2-5cbb1f51c266_meansquarederrorformula.png)
 
 Here are the test results on unseen data,
